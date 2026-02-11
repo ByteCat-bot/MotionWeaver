@@ -17,6 +17,6 @@ ICLR 2026
 [Weizhan Zhang](https://scholar.google.com/citations?user=Y9oMV_0AAAAJ&hl=zh-CN)
 
 
-[![Project Page]](https://bytecat-bot.github.io/MotionWeaver/)
+[![Project Page](https://img.shields.io/badge/🌐%20Page-Wan2.1-orange)](https://bytecat-bot.github.io/MotionWeaver/)
 
 </div>
